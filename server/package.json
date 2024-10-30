@@ -1,6 +1,7 @@
 {
   "name": "server",
   "version": "1.0.0",
+  "type": "module",
   "main": "index.mjs",
   "scripts": {
     "testStart": "cross-env NODE_ENV=test node index.mjs",
